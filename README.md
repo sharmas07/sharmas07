@@ -1,7 +1,8 @@
+
+![image](https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif)
 # 💫 About Me:
 🔭 I’m currently working on Recrutify<br>🌱 I’m currently learning MERN stack
 
-![image](https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharmas-vali) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sharmas@75) 
