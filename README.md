@@ -1,5 +1,4 @@
 
-![image]()
 # 💫 About Me:
 🔭 Currently pursuing a degree in Computer Science and Engineering<br>🌱 Proficient in MERN stack (MongoDB, Express.js, React.js, and Node.js) and have experience working with these technologies in various projects.
 
