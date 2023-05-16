@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif)
+![image]()
 # 💫 About Me:
 🔭 Currently pursuing a degree in Computer Science and Engineering<br>🌱 Proficient in MERN stack (MongoDB, Express.js, React.js, and Node.js) and have experience working with these technologies in various projects.
 
